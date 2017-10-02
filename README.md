@@ -8,3 +8,4 @@ contains the following:
 - ca-certificates
 - glide  
 - go2xunit
+- hg (mercurial)
