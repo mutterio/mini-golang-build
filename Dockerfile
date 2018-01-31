@@ -1,6 +1,6 @@
 FROM golang:1.9-alpine
 
-ENV DEP_VERSION 0.3.2
+ENV DEP_VERSION 0.4.1
 
 RUN \
   apk add --no-cache ca-certificates curl git mercurial openssh &&\
