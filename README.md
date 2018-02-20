@@ -9,3 +9,4 @@ contains the following:
 - glide  
 - go2xunit
 - hg (mercurial)
+- ginkgo cli
